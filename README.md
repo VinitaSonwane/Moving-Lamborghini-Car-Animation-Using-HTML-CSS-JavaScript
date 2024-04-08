@@ -4,7 +4,7 @@
 
 <!-- Animation Preview -->
 <p align="center">
-  <img src="https://github.com/VinitaSonwane/Moving-Lamborghini-Car-Animation-Using-HTML-CSS-JavaScript/assets/121440798/a1bb6ec6-1a55-47c6-b781-00ed4b76f9ca.gif" alt="Lamborghini Car Animation" width="800">
+  <img src="https://github.com/VinitaSonwane/Moving-Lamborghini-Car-Animation-Using-Pure-HTML-CSS-JavaScript/assets/121440798/a77414ea-2788-4f8e-af69-15f05194d95d"alt="Lamborghini Car Animation" width="800">
 </p>
 
 
@@ -24,6 +24,7 @@ Welcome to the Lamborghini Car Animation project! This repository contains an an
 - [Demo](#demo)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [License](#license)
 <!-- Technologies -->
 ## Technologies
 
@@ -65,4 +66,7 @@ Contributions are welcome! To contribute to this project, follow these steps:
 4. **Push to the Branch (`git push origin feature`)**
 5. **Create a Pull Request**
 
+<!-- License -->
+## License
 
+This project is licensed under the [MIT License](LICENSE).
