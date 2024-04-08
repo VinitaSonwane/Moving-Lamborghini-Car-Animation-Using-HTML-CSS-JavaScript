@@ -24,7 +24,15 @@
             </div>
         </div>
     </div>
-
+    <script>
+        var audio = document.createElement('audio');
+        audio.setAttribute('src', 'sound.mp3');
+        audio.loop = true;
+        audio.addEventListener('loadeddata', function() {
+            audio.play();
+        });
+        document.body.appendChild(audio);
+    </script>
 </body>
 
 </html>
