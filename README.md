@@ -44,7 +44,8 @@ The project is built using the following technologies:
 <!-- Demo -->
 ## Demo
 
-For a live demo of the Lamborghini car animation, visit [Demo](https://github.com/VinitaSonwane/Moving-Lamborghini-Car-Animation-Using-HTML-CSS-JavaScript.git](https://vinitasonwane.github.io/Moving-Lamborghini-Car-Animation-Using-Pure-HTML-CSS-JavaScript/)).
+For a live demo of the Lamborghini car animation, visit [Demo](https://vinitasonwane.github.io/Moving-Lamborghini-Car-Animation-Using-Pure-HTML-CSS-JavaScript/).
+
 
 <!-- Usage -->
 ## Usage
