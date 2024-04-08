@@ -29,6 +29,7 @@
         audio.setAttribute('src', 'sound.mp3');
         audio.loop = true;
         audio.addEventListener('loadeddata', function() {
+
             audio.play();
         });
         document.body.appendChild(audio);
